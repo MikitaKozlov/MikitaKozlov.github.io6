@@ -112,7 +112,7 @@ header.fixed #logo {
   width: 100%;
   background-image: url(https://img1.goodfon.com/wallpaper/nbig/5/b3/makbuk-apple-macbook-air.jpg);
     
-  
+  background-blend-mode: multiply;
   background-color: #2e3a44;
   background-size: cover;
   text-align: center;
